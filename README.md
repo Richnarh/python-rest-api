@@ -53,9 +53,9 @@ pip install django
 pip install djangorestframework
 pip install django-rest-knox
 ```
-      3.  python manage.py runserver
-4. open browser and copy localhost:8000 and run
-5. Done
+4.  python manage.py runserver
+5. open browser and copy localhost:8000 and run
+6. Done
 
 
 How to run angular project

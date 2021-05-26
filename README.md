@@ -51,6 +51,7 @@ How to run the project.
 ```
 pip install django 
 pip install djangorestframework
+pip install django-rest-knox
 ```
       3.  python manage.py runserver
 4. open browser and copy localhost:8000 and run
